@@ -130,7 +130,7 @@ function UserInput(ps) {
 
 }
 
-var copy = document.querySelector("#copy");
-copy.addEventListener("click", function () {
-    copyPassword();
-});
+//var copy = document.querySelector("#copy");
+//copy.addEventListener("click", function () {
+//    copyPassword();
+//});
